@@ -3,7 +3,7 @@ A preinstall script for installing amdgpu-pro drivers. Compatible with RedHat, C
 
 Download the latest amdgpu-pro drivers here:
   
-    http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-PRO-Driver-for-Linux-Release-Notes.aspx
+   http://support.amd.com/en-us/kb-articles/Pages/AMDGPU-PRO-Driver-for-Linux-Release-Notes.aspx
 
 The AMDGPU-Pro driver requires access to specific RPMs from installation media as well as Extra Packages for Enterprise Linux (EPEL) for purposes of dependency resolution.  amdgpu-pro-preinstall will confirm that all required prerequisite files and repositories are available in order to successfully install the AMDGPU-Pro driver in the Red Hat and SLES environment.  It can be run as follows:
 
